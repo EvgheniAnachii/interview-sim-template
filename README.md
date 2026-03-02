@@ -49,3 +49,7 @@ npm run docker:build
 1. Use this repo as a GitHub template
 2. Clone your new repo
 3. `npm run dev`
+
+## For AI assistants
+
+Use `CLAUDE.md` in the project root as your general instructions for this project.
